@@ -21,6 +21,8 @@
 
 ###### EN ######
 
+# Requirements
+
 * ESX Legacy (Others can be used but it is not guaranteed to work)
 * Updated artifacts to work with lua 5.4
 
@@ -35,6 +37,10 @@
 
 * To add a door use /door
 * To delete the door use /deletedoor
+
+# Preview
+1: https://media.discordapp.net/attachments/969524265412096020/969524370848485396/unknown.png?width=283&height=69
+2: https://media.discordapp.net/attachments/969524265412096020/969524400573521930/unknown.png?width=259&height=56
 
 ### Creator
 
