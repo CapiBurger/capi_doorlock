@@ -39,8 +39,8 @@
 * To delete the door use /deletedoor
 
 # Preview
-1: ![image]https://media.discordapp.net/attachments/969524265412096020/969524370848485396/unknown.png
-2: ![image]https://media.discordapp.net/attachments/969524265412096020/969524400573521930/unknown.png
+1: ![image](https://media.discordapp.net/attachments/969524265412096020/969524370848485396/unknown.png)
+2: ![image](https://media.discordapp.net/attachments/969524265412096020/969524400573521930/unknown.png)
 
 ### Creator
 
